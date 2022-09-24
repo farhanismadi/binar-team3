@@ -1,0 +1,40 @@
+.card{
+    margin-right: 25px;
+    margin-left: 20px;
+    margin-top: 100px;
+   
+    float: left;
+}
+
+.why{
+    padding-left:30px;
+    padding-top: 20px;
+    
+}
+.bin{
+    padding-left:30px;
+    
+}
+
+img{
+    position: relative;
+ 
+}
+
+
+.s{
+    padding-top: 10px;
+}
+.T{
+    padding-top: 10px;
+
+}
+
+.R{
+    padding-top: 10px;
+
+}
+.K{
+    padding-top: 10px;
+
+}
