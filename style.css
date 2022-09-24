@@ -1,0 +1,40 @@
+body {
+  background: #e5e5e5;
+}
+
+.testi {
+  background-color: #f1f3ff;
+}
+
+.img-review {
+  margin-top: 36px;
+}
+
+.stars {
+  margin: -20px;
+}
+
+.btn-slider button {
+  width: 34px;
+  height: 34px;
+}
+
+.question {
+  border: 1px solid #d4d4d4;
+}
+
+.testi {
+  margin-left: 70%;
+}
+.section-1 {
+  background-color: #0d28a6;
+}
+
+.section-1p {
+  padding: 0 260px;
+}
+
+a.nav-link {
+  color: black;
+  padding-top: 0;
+}
